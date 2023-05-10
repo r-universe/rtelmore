@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ISAR"]
+	path = ISAR
+	url = https://github.com/rtelmore/isar
+	shallow = true
+	registered = true
 [submodule "NFLSimulatoR"]
 	path = NFLSimulatoR
 	url = https://github.com/rtelmore/nflsimulator
